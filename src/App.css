@@ -1,0 +1,16 @@
+.header{
+  height: 80px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #a52a2a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+  color:yellow;
+  display: flex;
+}

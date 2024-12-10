@@ -1,0 +1,28 @@
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100px;
+    background-color: black;
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+    align-self: center;
+    border-radius: 30px;
+    color:aliceblue;
+  } 
+
+.b{
+  display: flex;
+  background-color: red;
+  width:50px;
+  color: black;
+  right: 0;
+  margin-right: 30px;
+}  
+
+.asd{
+  max-width: 60%;
+  height: auto;
+  margin-left: 40px;
+}
